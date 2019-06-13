@@ -1,0 +1,12 @@
+---
+output: rmarkdown::github_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r, echo = FALSE, warning = FALSE, message = FALSE, fig.path = "README_figs/README-"}
+knitr::opts_chunk$set(collapse=TRUE, fig.retina=2, fig.path = "README_figs/README-")
+```
+
+
+![](https://raw.githubusercontent.com/carstenstann/Opioid_Crisis_Analysis/master/README_figs/StateSpending.png)
